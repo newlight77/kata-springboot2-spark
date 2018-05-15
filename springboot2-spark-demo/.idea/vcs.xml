@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../../../bhavio/bhavio-admin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../bhavio/bhavio-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../bhavio/bhavio-authentication" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../bhavio/bhavio-batch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../bhavio/bhavio-ci" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../bhavio/bhavio-gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../bhavio/bhavio-lib-right" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../bhavio/bhavio-testing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../bhavio/bhavio-ui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../junit5-demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../tut-spring-security-and-angular-js" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../vertx-demo" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="basic" />
+        <module name="double-admin" />
+        <module name="double-gateway" />
+        <module name="double-resource" />
+        <module name="double-ui" />
+        <module name="modular" />
+        <module name="oauth2-authserver" />
+        <module name="oauth2-logout-authserver" />
+        <module name="oauth2-logout-resource" />
+        <module name="oauth2-logout-ui" />
+        <module name="oauth2-resource" />
+        <module name="oauth2-ui" />
+        <module name="oauth2-vanilla-authserver" />
+        <module name="oauth2-vanilla-resource" />
+        <module name="oauth2-vanilla-ui" />
+        <module name="proxy-resource" />
+        <module name="proxy-ui" />
+        <module name="single" />
+        <module name="spring-session-resource" />
+        <module name="spring-session-ui" />
+        <module name="springboot2-file-upload" />
+        <module name="vanilla-resource" />
+        <module name="vanilla-ui" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="basic" target="1.8" />
+      <module name="double-admin" target="1.8" />
+      <module name="double-gateway" target="1.8" />
+      <module name="double-resource" target="1.8" />
+      <module name="double-ui" target="1.8" />
+      <module name="modular" target="1.8" />
+      <module name="oauth2-authserver" target="1.8" />
+      <module name="oauth2-logout-authserver" target="1.8" />
+      <module name="oauth2-logout-resource" target="1.8" />
+      <module name="oauth2-logout-ui" target="1.8" />
+      <module name="oauth2-resource" target="1.8" />
+      <module name="oauth2-ui" target="1.8" />
+      <module name="oauth2-vanilla-authserver" target="1.8" />
+      <module name="oauth2-vanilla-resource" target="1.8" />
+      <module name="oauth2-vanilla-ui" target="1.8" />
+      <module name="pairs-double" target="1.5" />
+      <module name="pairs-oauth2" target="1.5" />
+      <module name="pairs-oauth2-logout" target="1.5" />
+      <module name="pairs-oauth2-vanilla" target="1.5" />
+      <module name="pairs-proxy" target="1.5" />
+      <module name="pairs-spring-session" target="1.5" />
+      <module name="pairs-vanilla" target="1.5" />
+      <module name="proxy-resource" target="1.8" />
+      <module name="proxy-ui" target="1.8" />
+      <module name="single" target="1.8" />
+      <module name="spring-session-resource" target="1.8" />
+      <module name="spring-session-ui" target="1.8" />
+      <module name="spring2-spark-demo" target="1.8" />
+      <module name="spring2-spark-demo-api" target="1.8" />
+      <module name="spring2-spark-demo-model" target="1.8" />
+      <module name="spring2-spark-demo-repository" target="1.8" />
+      <module name="spring2-spark-demo-service" target="1.8" />
+      <module name="springboot2-file-upload" target="1.8" />
+      <module name="springboot2-spark-demo" target="1.8" />
+      <module name="springboot2-spark-demo-api" target="1.8" />
+      <module name="springboot2-spark-demo-model" target="1.8" />
+      <module name="springboot2-spark-demo-repository" target="1.8" />
+      <module name="springboot2-spark-demo-service" target="1.8" />
+      <module name="tut-spring-security-and-angular-js" target="1.5" />
+      <module name="vanilla-resource" target="1.8" />
+      <module name="vanilla-ui" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

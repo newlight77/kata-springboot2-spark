@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.webjars.npm:tslib:1.9.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.npm/tslib/1.9.0/dd1a12ee4fa2d27ba5e8edf6c8610e1a26ae04b9/tslib-1.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.npm/tslib/1.9.0/b04f3ee8f5e43fa3b162981b50bb72fe1acabb33/tslib-1.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

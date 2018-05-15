@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":services-api" external.linked.project.path="$MODULE_DIR$/../../../../../vertx-demo/services-api" external.root.project.path="$MODULE_DIR$/../../../../../vertx-demo" external.system.id="GRADLE" external.system.module.group="vertx-demo" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../../vertx-demo/services-api/out/production/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../../../vertx-demo/services-api/out/test/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../vertx-demo/services-api">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../vertx-demo/services-api/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../vertx-demo/services-api/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../../vertx-demo/services-api/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/basic/basic.iml" filepath="$PROJECT_DIR$/../../tut-spring-security-and-angular-js/basic/basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bhavio-core-model/bhavio-core-model.iml" filepath="$PROJECT_DIR$/.idea/modules/bhavio-core-model/bhavio-core-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bhavio-core-repository/bhavio-core-repository.iml" filepath="$PROJECT_DIR$/.idea/modules/bhavio-core-repository/bhavio-core-repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bhavio-lib-right-model/bhavio-lib-right-model.iml" filepath="$PROJECT_DIR$/.idea/modules/bhavio-lib-right-model/bhavio-lib-right-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bhavio-lib-right-repository/bhavio-lib-right-repository.iml" filepath="$PROJECT_DIR$/.idea/modules/bhavio-lib-right-repository/bhavio-lib-right-repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.newlight77.demo.iml" filepath="$PROJECT_DIR$/.idea/modules/com.newlight77.demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/double/admin/double-admin.iml" filepath="$PROJECT_DIR$/../../tut-spring-security-and-angular-js/double/admin/double-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/double/gateway/double-gateway.iml" filepath="$PROJECT_DIR$/../../tut-spring-security-and-angular-js/double/gateway/double-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/double/resource/double-resource.iml" filepath="$PROJECT_DIR$/../../tut-spring-security-and-angular-js/double/resource/double-resource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/double/ui/double-ui.iml" filepath="$PROJECT_DIR$/../../tut-spring-security-and-angular-js/double/ui/double-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/entities/entities.iml" filepath="$PROJECT_DIR$/.idea/modules/entities/entities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/verticles/greeting-consumer/greeting-consumer.iml" filepath="$PROJECT_DIR$/.idea/modules/verticles/greeting-consumer/greeting-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/entities/greeting-entities/greeting-entities.iml" filepath="$PROJECT_DIR$/.idea/modules/entities/greeting-entities/greeting-entities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/verticles/greeting-processor/greeting-processor.iml" filepath="$PROJECT_DIR$/.idea/modules/verticles/greeting-processor/greeting-processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/services/greeting-services/greeting-services.iml" filepath="$PROJECT_DIR$/.idea/modules/services/greeting-services/greeting-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/services-api/greeting-services-api/greeting-services-api.iml" filepath="$PROJECT_DIR$/.idea/modules/services-api/greeting-services-api/greeting-services-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/modular/modular.iml" filepath="$PROJECT_DIR$/../../tut-spring-security-and-angular-js/modular/modular.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/oauth2/authserver/oauth2-authserver.iml" filepath="$PROJECT_DIR$/../../tut-spring-security-and-angular-js/oauth2/authserver/oauth2-authserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/oauth2-logout/authserver/oauth2-logout-authserver.iml" filepath="$PROJECT_DIR$/../../tut-spring-security-and-angular-js/oauth2-logout/authserver/oauth2-logout-authserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/oauth2-logout/resource/oauth2-logout-resource.iml" filepath="$PROJECT_DIR$/../../tut-spring-security-and-angular-js/oauth2-logout/resource/oauth2-logout-resource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/oauth2-logout/ui/oauth2-logout-ui.iml" filepath="$PROJECT_DIR$/../../tut-spring-security-and-angular-js/oauth2-logout/ui/oauth2-logout-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/oauth2/resource/oauth2-resource.iml" filepath="$PROJECT_DIR$/../../tut-spring-security-and-angular-js/oauth2/resource/oauth2-resource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/oauth2/ui/oauth2-ui.iml" filepath="$PROJECT_DIR$/../../tut-spring-security-and-angular-js/oauth2/ui/oauth2-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/oauth2-vanilla/authserver/oauth2-vanilla-authserver.iml" filepath="$PROJECT_DIR$/../../tut-spring-security-and-angular-js/oauth2-vanilla/authserver/oauth2-vanilla-authserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/oauth2-vanilla/resource/oauth2-vanilla-resource.iml" filepath="$PROJECT_DIR$/../../tut-spring-security-and-angular-js/oauth2-vanilla/resource/oauth2-vanilla-resource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/oauth2-vanilla/ui/oauth2-vanilla-ui.iml" filepath="$PROJECT_DIR$/../../tut-spring-security-and-angular-js/oauth2-vanilla/ui/oauth2-vanilla-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/double/pairs-double.iml" filepath="$PROJECT_DIR$/../../tut-spring-security-and-angular-js/double/pairs-double.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/oauth2/pairs-oauth2.iml" filepath="$PROJECT_DIR$/../../tut-spring-security-and-angular-js/oauth2/pairs-oauth2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/oauth2-logout/pairs-oauth2-logout.iml" filepath="$PROJECT_DIR$/../../tut-spring-security-and-angular-js/oauth2-logout/pairs-oauth2-logout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/oauth2-vanilla/pairs-oauth2-vanilla.iml" filepath="$PROJECT_DIR$/../../tut-spring-security-and-angular-js/oauth2-vanilla/pairs-oauth2-vanilla.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/proxy/pairs-proxy.iml" filepath="$PROJECT_DIR$/../../tut-spring-security-and-angular-js/proxy/pairs-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/spring-session/pairs-spring-session.iml" filepath="$PROJECT_DIR$/../../tut-spring-security-and-angular-js/spring-session/pairs-spring-session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/vanilla/pairs-vanilla.iml" filepath="$PROJECT_DIR$/../../tut-spring-security-and-angular-js/vanilla/pairs-vanilla.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/proxy/resource/proxy-resource.iml" filepath="$PROJECT_DIR$/../../tut-spring-security-and-angular-js/proxy/resource/proxy-resource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/proxy/ui/proxy-ui.iml" filepath="$PROJECT_DIR$/../../tut-spring-security-and-angular-js/proxy/ui/proxy-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/services/services.iml" filepath="$PROJECT_DIR$/.idea/modules/services/services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/services-api/services-api.iml" filepath="$PROJECT_DIR$/.idea/modules/services-api/services-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/single/single.iml" filepath="$PROJECT_DIR$/../../tut-spring-security-and-angular-js/single/single.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/spring-session/resource/spring-session-resource.iml" filepath="$PROJECT_DIR$/../../tut-spring-security-and-angular-js/spring-session/resource/spring-session-resource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/spring-session/ui/spring-session-ui.iml" filepath="$PROJECT_DIR$/../../tut-spring-security-and-angular-js/spring-session/ui/spring-session-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springboot-demo.iml" filepath="$PROJECT_DIR$/.idea/modules/springboot-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springboot-graph/springboot-graph.iml" filepath="$PROJECT_DIR$/.idea/modules/springboot-graph/springboot-graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springboot-sample/springboot-sample.iml" filepath="$PROJECT_DIR$/.idea/modules/springboot-sample/springboot-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springboot-ui/springboot-ui.iml" filepath="$PROJECT_DIR$/.idea/modules/springboot-ui/springboot-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot2-file-upload/springboot2-file-upload.iml" filepath="$PROJECT_DIR$/../springboot2-file-upload/springboot2-file-upload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springboot2-spark-demo/springboot2-spark-demo.iml" filepath="$PROJECT_DIR$/.idea/modules/springboot2-spark-demo/springboot2-spark-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/verticles/todo-consumer/todo-consumer.iml" filepath="$PROJECT_DIR$/.idea/modules/verticles/todo-consumer/todo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/entities/todo-entities/todo-entities.iml" filepath="$PROJECT_DIR$/.idea/modules/entities/todo-entities/todo-entities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/verticles/todo-processor/todo-processor.iml" filepath="$PROJECT_DIR$/.idea/modules/verticles/todo-processor/todo-processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/services/todo-services/todo-services.iml" filepath="$PROJECT_DIR$/.idea/modules/services/todo-services/todo-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/services-api/todo-services-api/todo-services-api.iml" filepath="$PROJECT_DIR$/.idea/modules/services-api/todo-services-api/todo-services-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/tut-spring-security-and-angular-js.iml" filepath="$PROJECT_DIR$/../../tut-spring-security-and-angular-js/tut-spring-security-and-angular-js.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/vanilla/resource/vanilla-resource.iml" filepath="$PROJECT_DIR$/../../tut-spring-security-and-angular-js/vanilla/resource/vanilla-resource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/vanilla/ui/vanilla-ui.iml" filepath="$PROJECT_DIR$/../../tut-spring-security-and-angular-js/vanilla/ui/vanilla-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/verticles/verticles.iml" filepath="$PROJECT_DIR$/.idea/modules/verticles/verticles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vertx-demo.iml" filepath="$PROJECT_DIR$/.idea/modules/vertx-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vertx-launcher/vertx-launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/vertx-launcher/vertx-launcher.iml" />
+    </modules>
+  </component>
+</project>

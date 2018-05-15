@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.webjars.npm:angular__forms:4.4.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.npm/angular__forms/4.4.4/d2a48a610ca8a1a1ae53f9eb10c10214f5b13b2d/angular__forms-4.4.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.npm/angular__forms/4.4.4/b04f3ee8f5e43fa3b162981b50bb72fe1acabb33/angular__forms-4.4.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

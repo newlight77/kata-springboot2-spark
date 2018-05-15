@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.orc:orc-core:1.4.1:nohive">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.orc/orc-core/1.4.1/225c9682ceed90a9937832b1bf0dcf27b5a52bd3/orc-core-1.4.1-nohive.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.orc/orc-core/1.4.1/ced29cf42801c5c045bf3066a93d7881f0cf13b0/orc-core-1.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

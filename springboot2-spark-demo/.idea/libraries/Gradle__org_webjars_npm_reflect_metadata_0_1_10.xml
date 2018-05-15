@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.webjars.npm:reflect-metadata:0.1.10">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.npm/reflect-metadata/0.1.10/e47f0aba0d98e5265813c98b3c935ddeabcdc24f/reflect-metadata-0.1.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.npm/reflect-metadata/0.1.10/b04f3ee8f5e43fa3b162981b50bb72fe1acabb33/reflect-metadata-0.1.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

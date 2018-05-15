@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../tut-spring-security-and-angular-js/basic" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tut-spring-security-and-angular-js/double/admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tut-spring-security-and-angular-js/double/gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tut-spring-security-and-angular-js/double/resource" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tut-spring-security-and-angular-js/double/ui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tut-spring-security-and-angular-js/modular" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tut-spring-security-and-angular-js/oauth2-logout/authserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tut-spring-security-and-angular-js/oauth2-logout/resource" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tut-spring-security-and-angular-js/oauth2-logout/ui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tut-spring-security-and-angular-js/oauth2-vanilla/authserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tut-spring-security-and-angular-js/oauth2-vanilla/resource" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tut-spring-security-and-angular-js/oauth2-vanilla/ui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tut-spring-security-and-angular-js/oauth2/authserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tut-spring-security-and-angular-js/oauth2/resource" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tut-spring-security-and-angular-js/oauth2/ui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tut-spring-security-and-angular-js/proxy/resource" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tut-spring-security-and-angular-js/proxy/ui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tut-spring-security-and-angular-js/single" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tut-spring-security-and-angular-js/spring-session/resource" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tut-spring-security-and-angular-js/spring-session/ui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tut-spring-security-and-angular-js/vanilla/resource" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tut-spring-security-and-angular-js/vanilla/ui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/basic" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/double/admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/double/gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/double/resource" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/double/ui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/modular" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/oauth2-logout/authserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/oauth2-logout/resource" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/oauth2-logout/ui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/oauth2-vanilla/authserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/oauth2-vanilla/resource" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/oauth2-vanilla/ui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/oauth2/authserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/oauth2/resource" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/oauth2/ui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/proxy/resource" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/proxy/ui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/single" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/spring-session/resource" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/spring-session/ui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/vanilla/resource" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../tut-spring-security-and-angular-js/vanilla/ui" charset="UTF-8" />
+  </component>
+</project>

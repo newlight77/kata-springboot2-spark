@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.arangodb:arangodb-java-driver:4.3.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.arangodb/arangodb-java-driver/4.3.2/3a0fb44ec54aec431e4a906131f2163c1160fbbb/arangodb-java-driver-4.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.arangodb/arangodb-java-driver/4.3.2/195506681a01171fca8268ba5ca29e6d9b9bea45/arangodb-java-driver-4.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

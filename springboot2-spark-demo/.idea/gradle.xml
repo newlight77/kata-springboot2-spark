@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../../../bhavio" />
+        <option name="gradleHome" value="/apps/gradle-4.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../../../bhavio" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../../../bhavio/bhavio-authorization-lib" />
+        <option name="gradleHome" value="/apps/gradle-4.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../../../bhavio/bhavio-authorization-lib" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../../../bhavio/bhavio-core" />
+        <option name="gradleHome" value="/apps/gradle-4.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../../../bhavio/bhavio-core" />
+            <option value="$PROJECT_DIR$/../../../bhavio/bhavio-core/bhavio-core-api" />
+            <option value="$PROJECT_DIR$/../../../bhavio/bhavio-core/bhavio-core-model" />
+            <option value="$PROJECT_DIR$/../../../bhavio/bhavio-core/bhavio-core-repository" />
+            <option value="$PROJECT_DIR$/../../../bhavio/bhavio-core/bhavio-core-service" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../../../bhavio/bhavio-lib-right" />
+        <option name="gradleHome" value="/apps/gradle-4.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../../../bhavio/bhavio-lib-right" />
+            <option value="$PROJECT_DIR$/../../../bhavio/bhavio-lib-right/bhavio-lib-right-aspect" />
+            <option value="$PROJECT_DIR$/../../../bhavio/bhavio-lib-right/bhavio-lib-right-model" />
+            <option value="$PROJECT_DIR$/../../../bhavio/bhavio-lib-right/bhavio-lib-right-repository" />
+            <option value="$PROJECT_DIR$/../../../bhavio/bhavio-lib-right/bhavio-lib-right-service" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../../junit5-demo" />
+        <option name="gradleHome" value="/apps/gradle-4.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../../junit5-demo" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/.." />
+        <option name="gradleHome" value="/apps/gradle-4.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/.." />
+            <option value="$PROJECT_DIR$/../springboot-graph" />
+            <option value="$PROJECT_DIR$/../springboot-sample" />
+            <option value="$PROJECT_DIR$/../springboot-ui" />
+            <option value="$PROJECT_DIR$" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../springboot-graph" />
+        <option name="gradleHome" value="/apps/gradle-4.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../springboot-graph" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../../vertx-demo" />
+        <option name="gradleHome" value="/apps/gradle-4.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../../vertx-demo" />
+            <option value="$PROJECT_DIR$/../../vertx-demo/entities" />
+            <option value="$PROJECT_DIR$/../../vertx-demo/entities/greeting-entities" />
+            <option value="$PROJECT_DIR$/../../vertx-demo/entities/todo-entities" />
+            <option value="$PROJECT_DIR$/../../vertx-demo/services" />
+            <option value="$PROJECT_DIR$/../../vertx-demo/services-api" />
+            <option value="$PROJECT_DIR$/../../vertx-demo/services-api/greeting-services-api" />
+            <option value="$PROJECT_DIR$/../../vertx-demo/services-api/todo-services-api" />
+            <option value="$PROJECT_DIR$/../../vertx-demo/services/greeting-services" />
+            <option value="$PROJECT_DIR$/../../vertx-demo/services/todo-services" />
+            <option value="$PROJECT_DIR$/../../vertx-demo/verticles" />
+            <option value="$PROJECT_DIR$/../../vertx-demo/verticles/greeting-consumer" />
+            <option value="$PROJECT_DIR$/../../vertx-demo/verticles/greeting-processor" />
+            <option value="$PROJECT_DIR$/../../vertx-demo/verticles/todo-consumer" />
+            <option value="$PROJECT_DIR$/../../vertx-demo/verticles/todo-processor" />
+            <option value="$PROJECT_DIR$/../../vertx-demo/vertx-launcher" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

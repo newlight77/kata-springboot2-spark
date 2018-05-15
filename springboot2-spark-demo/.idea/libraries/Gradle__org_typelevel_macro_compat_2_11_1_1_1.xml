@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: org.typelevel:macro-compat_2.11:1.1.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/typelevel/macro-compat_2.11/1.1.1/macro-compat_2.11-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

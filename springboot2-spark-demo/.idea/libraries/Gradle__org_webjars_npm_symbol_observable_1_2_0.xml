@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.webjars.npm:symbol-observable:1.2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.npm/symbol-observable/1.2.0/e03e48f3154eeb1dcaf4f4e235ecaf9f831a6c07/symbol-observable-1.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.webjars.npm/symbol-observable/1.2.0/b04f3ee8f5e43fa3b162981b50bb72fe1acabb33/symbol-observable-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
