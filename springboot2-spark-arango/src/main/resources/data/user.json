@@ -1,0 +1,5 @@
+[
+  {"lastname" : "TO", "firstname" : "Kong", "username" : "newlight77@gmail.com", "accounts" : [{"name" : "default"}], "roles" : [{"name" : "admin", "description" : "admin on default account", "rights" : ["read", "write"]}]},
+  {"lastname" : "LAMOUCHI", "firstname" : "Nebrass", "username" : "lnibrass@gmail.com", "accounts" : [{"name" : "default"}], "roles" : [{"name" : "admin", "description" : "admin on default account", "rights" : ["read"]}]},
+  {"lastname" : "GUIMEZANES", "firstname" : "benoit", "username" : "b.guimezane@groupeonepoint.com", "accounts" : [{"name" : "default"}], "roles" : [{"name" : "admin", "description" : "admin on default account", "rights" : ["read"]}]}
+]
